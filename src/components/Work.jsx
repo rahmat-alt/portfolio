@@ -16,7 +16,7 @@ export default function Work() {
       name: "Mini Project Persebaran Coffeeshop Kota Padang",
       icon: "./assets/persebaran.png",
       description: "Web Developer",
-      link: "https://coffeeshoppadang.netlify.app/",
+      link: "https://persebarancoffeshop.vercel.app/",
     },
     {
       name: "Admin Dashboard UI/UX Design",
