@@ -1,9 +1,10 @@
 export default function About() {
   const tools = [
     { name: "vscode", icon: "./assets/vscode.png" },
-    { name: "firebase", icon: "./assets/firebase.png" },
-    { name: "mongodb", icon: "./assets/mongodb.png" },
+    { name: "posgresql", icon: "./assets/posgresql.png" },
     { name: "figma", icon: "./assets/figma.png" },
+    { name: "php", icon: "./assets/php.webp" },
+    { name: "laravel", icon: "./assets/laravel.webp" },
     { name: "git", icon: "./assets/git.png" },
   ];
 
@@ -24,7 +25,7 @@ export default function About() {
       name: "Projects",
       icon1: "./assets/project-icon.png",
       icon2: "./assets/project-icon-dark.png",
-      description: "Built 2 Projects In 7 months",
+      description: "Built 2 Projects In 9 months",
     },
   ];
   return (
@@ -35,23 +36,10 @@ export default function About() {
       <div className="flex w-full flex-col lg:flex-row items-center gap-20 my-20">
         <div className="max-w-max mx-auto relative">
           <img
-            src="./assets/user-image.png"
+            src="./assets/PAS_FOTO_RAHMAT-removebg-preview.png"
             alt=""
             className="w-64 sm:w-80 rounded-3xl max-w-none"
           />
-
-          <div className="bg-white w-1/2 aspect-square absolute right-0 bottom-0 rounded-full translate-x-1/4 translate-y-1/3 shadow-[0_4px_55px_rgba(149,0,162,0.15)] flex items-center justify-center">
-            <img
-              src="./assets/circular-text.png"
-              alt=""
-              className="w-full animate-spin_slow"
-            />
-            <img
-              src="./assets/dev-icon.png"
-              alt=""
-              className="w-1/4 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
-            />
-          </div>
         </div>
         <div className="flex-1">
           <p className="mb-10 max-w-2xl font-Ovo">

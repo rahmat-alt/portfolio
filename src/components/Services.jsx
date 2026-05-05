@@ -24,7 +24,7 @@ export default function Services() {
       <h4 className="text-center mb-2 text-lg font-Ovo">What i offer</h4>
       <h2 className="text-center text-5xl font-Ovo">My services</h2>
       <p className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">
-        I am a frontend developer from Jakarta, Indonesia with 2 years of
+        I am a Fullstack developer from Jakarta, Indonesia with 1 years of
         experience in DPMPTSP Jakarta.
       </p>
 
@@ -44,10 +44,7 @@ export default function Services() {
             <a
               href={service.link}
               className="flex items-center gap-2 text-sm mt-5"
-            >
-              Read more{" "}
-              <img src="./assets/right-arrow.png" alt="" className="w-4" />
-            </a>
+            ></a>
           </div>
         ))}
       </div>
