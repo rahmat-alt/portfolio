@@ -2,19 +2,19 @@ export default function Work() {
   const work = [
     {
       name: "Frontend project JakBizHub",
-      icon: "./assets/work-1.png",
+      icon: "./assets/jakbizhub.png",
       description: "Web Design",
       link: "https://invest.jakarta.go.id/jakbizhub",
     },
     {
       name: "Service Admin Dashboard",
-      icon: "./assets/work-2.png",
+      icon: "./assets/mpp.png",
       description: "Service Admin Dashboard",
       link: "https://pelayanan.jakarta.go.id/home",
     },
     {
       name: "Mini Project Persebaran Coffeeshop Kota Padang",
-      icon: "./assets/work-3.png",
+      icon: "./assets/persebaran.png",
       description: "Web Developer",
       link: "https://coffeeshoppadang.netlify.app/",
     },
