@@ -16,7 +16,7 @@ export default function Work() {
       name: "Mini Project Persebaran Coffeeshop Kota Padang",
       icon: "./assets/persebaran.png",
       description: "Web Developer",
-      link: "https://persebarancoffeshop.vercel.app/",
+      link: "https://persebarancoffeeshop.vercel.app/",
     },
     {
       name: "Admin Dashboard UI/UX Design",
